@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>محمد افضل سادات - خبرنگار</title>
+    <style>
+        body {
+            font-family: Tahoma, sans-serif;
+            background-color: #f4f4f9;
+            margin: 0;
+            padding: 0;
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: 50px auto;
+            background: #fff;
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+        }
+        h1 {
+            text-align: center;
+            color: #2c3e50;
+        }
+        h2 {
+            color: #34495e;
+        }
+        p {
+            line-height: 1.6;
+        }
+        .contact {
+            background: #ecf0f1;
+            padding: 15px;
+            border-radius: 8px;
+            margin-top: 20px;
+        }
+        a {
+            color: #2980b9;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>محمد افضل سادات</h1>
+        <h2>بیوگرافی</h2>
+        <p>محمد افضل سادات، متولد ولایت کابل، یک خبرنگار متدین و پرشور است که عشق و علاقه زیادی به اطلاع‌رسانی دقیق و شفاف دارد. او همواره آرزو داشته است صدای مردم افغانستان باشد و مسائل واقعی جامعه را به گوش همگان برساند.</p>
+        <p>محمد افضل تحصیلات خود را در رشته ژورنالیسم به پایان رساند و با آموخته‌های علمی و عملی خود وارد عرصه رسانه شد. اولین تجربه حرفه‌ای او در <strong>تلویزیون خورشید</strong> بود، جایی که به عنوان <strong>خبرنگار بخش تهیه خبر برنامه «لایف»</strong> فعالیت خود را آغاز کرد و گزارش‌هایش با دقت و صحت بالا شناخته شد.</p>
+
+        <h2>ویژگی‌ها و تخصص‌ها</h2>
+        <ul>
+            <li>اطلاع‌رسانی دقیق و بی‌طرفانه</li>
+            <li>پوشش اخبار اجتماعی و فرهنگی</li>
+            <li>توانایی تهیه و تدوین گزارش‌های خبری حرفه‌ای</li>
+            <li>تعهد اخلاقی و متدین در حرفه خبرنگاری</li>
+        </ul>
+
+        <h2>اطلاعات تماس</h2>
+        <div class="contact">
+            <p><strong>ایمیل:</strong> <a href="mailto:gmlmujtaba@gmail.com">gmlmujtaba@gmail.com</a></p>
+            <p><strong>شماره تماس:</strong> +93 784181818</p>
+            <p><strong>فیسبوک:</strong> <a href="https://www.facebook.com/Mohammad.Afzal.Sadat" target="_blank">Mohammad Afzal Sadat</a></p>
+        </div>
+    </div>
+</body>
+</html>
